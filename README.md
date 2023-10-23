@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="follownav.png" />
+  <img alt="Imagem da Aplicação" src="speechSynthesis.jpg" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ Síntese de fala feita com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Marcador-de-Link-Que-Acompanha-o-Mouse.git
+  ❯ git clone https://github.com/Talison-Miguel/S-ntese-de-Fala-JS.git
 ```
 
 ---
